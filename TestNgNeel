@@ -1,0 +1,13 @@
+Assert is a class.Helps to validate certain action.
+Assert.assertEquals(ACTUAL,EXPECTED,”My message”); -> One example
+Compares actual and expected value and prints error message on failure
+
+Assert.assertTrue(true/false);
+This always expects true boolean value
+
+Hard Assert terminates entire program even if single Assert fails
+
+Soft Assert does not terminate entire program, provides failure information at the end of execution
+Soft Assert is a seperate class
+Need to create SoftAssert class object
+
