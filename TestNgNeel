@@ -1,3 +1,5 @@
+Practice App- https://the-internet.herokuapp.com/
+
 Assert is a class.Helps to validate certain action.
 Assert.assertEquals(ACTUAL,EXPECTED,”My message”); -> One example
 Compares actual and expected value and prints error message on failure
